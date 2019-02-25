@@ -1,14 +1,14 @@
 # Natural Language Processing Using **Standford Core Nlp***
 
-## Contains:
+## Src Contains
 
-***LemmaExample | 
-Named Entity Recognition |
-Parts of speech |
-Pipeline |
-Sentence Recognizer |
-Sentence Analysis |
-Token Generation. ***
+<b> LemmaExample <b> | 
+<b> Named Entity Recognition <b> |
+<b> Parts of speech <b> |
+<b> Pipeline <b>|
+<b> Sentence Recognizer <b> |
+<b> Sentence Analysis <b> |
+<b> Token Generation.<b>
 
 ## SETTING UP
  1. Need of java-8 to be installed in required system.
