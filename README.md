@@ -1,4 +1,20 @@
-# standford-core-nlp
+# Natural Language Processing Using **Standford Core Nlp***
 
+## Contains:
 
-A Part-Of-Speech Tagger (POS Tagger) is a piece of software that reads text in some language and assigns parts of speech to each word (and other token), such as noun, verb, adjective, etc., although generally computational applications use more fine-grained POS tags like 'noun-plural'. This software is a Java implementation of the log-linear part-of-speech taggers described in these papers (if citing just one paper, cite the 2003 one):
+***LemmaExample | 
+Named Entity Recognition |
+Parts of speech |
+Pipeline |
+Sentence Recognizer |
+Sentence Analysis |
+Token Generation. ***
+
+## SETTING UP
+ 1. Need of java-8 to be installed in required system.
+ 2. Direct Download zip or via svn.
+ 3. POM Dependencies.
+  
+ ## Build and Run
+  1. Install maven or Use IDE.
+  2. Run via CMD/IDE.
