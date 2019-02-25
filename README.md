@@ -1,4 +1,4 @@
-# Natural Language Processing Using **Standford Core Nlp***
+# Natural Language Processing Using *Standford Core Nlp*
 
 ## Src Contains
 
@@ -18,3 +18,5 @@
  ## Build and Run
   1. Install maven or Use IDE.
   2. Run via CMD/IDE.
+  
+For More detailed information read this <a href="https://knlsharma.github.io/blog/2019/02/22/Natural-Language-Processing/">Dive in Nlp</a>
