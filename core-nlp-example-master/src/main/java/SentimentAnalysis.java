@@ -6,7 +6,8 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 
 import java.util.List;
 
-public class SentimentAnalysis {
+public class SentimentAnalysis 
+{
 
     public static void main(String[] args) {
 

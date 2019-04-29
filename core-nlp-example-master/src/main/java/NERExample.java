@@ -6,15 +6,15 @@ import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class NERExample {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
         StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
 
-        String text = "Hey! My  name is Dinesh Krishnan and I have friend his name is Robert." +
+        String text = "Hey! My  name is  Krishnan and I have friend his name is Robert." +
                 " We both are living in Berlin";
 
         CoreDocument coreDocument = new CoreDocument(text);

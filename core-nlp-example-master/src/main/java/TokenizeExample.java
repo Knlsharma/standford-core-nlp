@@ -6,7 +6,8 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 
 import java.util.List;
 
-public class TokenizeExample {
+public class TokenizeExample
+{
 
     public static void main(String[] args) {
 
