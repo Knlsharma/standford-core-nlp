@@ -1,5 +1,7 @@
 # Natural Language Processing Using *Standford Core Nlp*
 
+[![Build Status](https://travis-ci.org/Knlsharma/standford-core-nlp.svg?branch=master)](https://travis-ci.org/Knlsharma/standford-core-nlp)
+
 ## Src Contains
 
 <b> LemmaExample <b> | 
